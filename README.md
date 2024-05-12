@@ -30,7 +30,7 @@ Each data contains the following information:
 
 # 4. Project Flow
 
-![Flow Diagram](./images/flow-diafram.png)
+![Flow Diagram](./images/flow-diagram.png)
 
 - Explore Datasets
 - Explore some pre-trained models
